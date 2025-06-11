@@ -1,2 +1,2 @@
 # green-teche
-Web moderna + chat inteligente con IA de vanguardia para ventas. Transforma la interacción, ofrece recomendaciones personalizadas y cierra ventas 24/7. ¡Tu agente de ventas virtual con toque argentino!
+Modern web + cutting-edge AI smart chat for sales. Transform interactions, offer personalized recommendations, and close sales 24/7. Your virtual sales agent with an Argentinian touch!!!
